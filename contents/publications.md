@@ -1,13 +1,13 @@
-- <strong>S Lyko</strong>. 	
-*Temporal Dynamics Across Semantic Frameworks: A Cross-Framework Analysis of Event-Centric Representations in AMR, UMR, and UCCA.* <strong>In Revision.</strong> [[Paper]](#publications) [[Code]](#publications)
-<!-- *Temporal Dynamics Across Semantic Frameworks: A Cross-Framework Analysis of Event-Centric Representations in AMR, UMR, and UCCA.* <strong>The Sixth International Workshop on Designing Meaning Representations (DMR'25)</strong> [[Paper]](#publications) [[Code]](#publications) -->
+- <strong>Sholder Lyko</strong>. *EcoSpeak: Cost-Efficient Bias Mitigation for Partially Cross-Lingual Speaker Verification.* Findings of the Association for Computational Linguistics (NAACL 2024, Findings) [[Paper]](#publications)
 
-- <strong>S Lyko</strong>. 
-*PromptCraft: Syntax-Aware Data Augmentation for Low-Resource Languages via Constrained Generative AI.* <strong>In Revision.</strong> [[Paper]](#publications) [[Code]](#publications)
-<!-- *PromptCraft: Syntax-Aware Data Augmentation for Low-Resource Languages via Constrained Generative AI.* <strong>Fifth Conference on Language, Data and Knowledge (LDK'25)</strong> [[Paper]](#publications) [[Code]](#publications) -->
+- Samuel Cahyawijaya, Holy Lovenia, Fajri Koto, Dea Adhista, Emmanuel Dave, Sarah Oktavianti, Salsabil Maulana Akbar, <strong>Sholder Lyko</strong>, Nuur Shadieq, Tjeng Wawan Cenggoro, Hanung Wahyuning Linuwih, Bryan Wilie, Galih Pradipta Muridan, Genta Indra Winata, David Moeljadi, Alham Fikri Aji, Ayu Purwarianti, Pascale Fung. *NusaWrites: Constructing High-Quality Corpora for Underrepresented and Extremely Low-Resource Languages.* the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2023) [[Paper]](#publications)
+
+- X Zhao, W Zeng, J Tang, <strong>S Lyko</strong>, M Luo, Q Zheng. *Toward entity alignment in the open world: An unsupervised approach with confidence modeling.* Data Science and Engineering [[Paper]](#publications)
+
+- W Zeng, X Zhao, J Tang, <strong>S Lyko</strong>, M Luo, Q Zheng. *Towards Entity Alignment in the Open World: An Unsupervised Approach.* Database Systems for Advanced Applications: 26th International Conference (DASFAA 2021) [[Paper]](#publications)
 
 - Q Fan, X Liu, Y Zhang, F Bao, <strong>S Lyko</strong>. 	
-*Adaptive mutation PSO based SVM model for credit scoring.* <strong>2nd International Conference on Computer Science and Application Engineering (CSAE'18)</strong> [[Paper]](#publications)
+*Adaptive mutation PSO based SVM model for credit scoring.* 2nd International Conference on Computer Science and Application Engineering (CSAE 2018) [[Paper]](#publications)
 
 - Y Xing, Y Zhu, <strong>S Lyko</strong>, S Liu, J Zhou. 	
-*Adaptive mutation PSO based SVM model for credit scoring.* <strong>2018 International Conference on Audio, Language and Image Processing (ICALIP'18)</strong> [[Paper]](#publications)
+*Named entity recognition among Chinese microBlog based on cascaded CRF.* 2018 International Conference on Audio, Language and Image Processing (ICALIP 2018) [[Paper]](#publications)
