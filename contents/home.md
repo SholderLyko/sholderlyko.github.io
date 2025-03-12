@@ -3,7 +3,7 @@
 **Sholder Odette Lyko** is currently pursuing a PhD's Degree in Computer Science, at School of Computing and Artificial Intelligence, Shandong University of Finance and Economics, China.
 
 #### Email
-`odette[at]sdufe(dot)edu{dot}cn`
+`odette[at]mail<dot>sdufe(dot)edu{dot}cn`
 
 #### Education
 
